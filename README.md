@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Soo-For
 - 👀 I’m interested in beautiful things,such as food, fishing and so on.
 - 🌱 I’m currently learning Node.js & React.
-- 💞️ I’m looking to collaborate on my brain.Because I have find I can't control he gradually.
+- 💞️ I’m looking to build my blog.
 - 📫 How to reach me ...
 
 <!---
